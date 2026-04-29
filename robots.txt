@@ -1,1 +1,4 @@
+User-agent: *
+Allow: /
 
+Sitemap: https://hahuyen20031993.github.io/zzzz-Oficial-2026-Acesse-Recursos-Online-no-Brasil/sitemap.xml
